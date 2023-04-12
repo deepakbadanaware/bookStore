@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit1",
     "dev": "nodemon src/app.js -e js,hbs",
-    "start": "node app.js"
-    ,"build":"npn i"
+   
+    ,"build":"node app.js"
   },
   "keywords": [],
   "author": "",
